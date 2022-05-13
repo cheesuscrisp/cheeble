@@ -9,6 +9,7 @@ Legend:
 [Unblock Websites](https://rentry.co/cheesepirate-unblockwebsites)
 
 # Wiki/Indexes:
+A lot of inspiration was drawn from here, so check them out:
 ### Piracy:
 - [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread)
 - [RippedGuide](https://ripped.guide/)
