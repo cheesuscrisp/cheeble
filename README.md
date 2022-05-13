@@ -57,3 +57,13 @@ A lot of inspiration was drawn from here, so check them out:
     - Use all the extensions from the websites mentioned above.
 - [Kotatsu](https://github.com/nv95/Kotatsu) - manga reader. not as functional as tachiyomi.
 - [Saikou](https://github.com/saikou-app/saikou) - Personally use it only for anime occasionally. Manga features are clunky, but has great potential.
+
+# Tools:
+## Login Details:
+For maintaining anonymity:
+- [mail.tm](https://mail.tm/en/) - Not quite temporary email, but throwaway. Use if you need an email for an account for which you still want recovery options, but don't want to link to yourself. Don't trust this email service too much though. Also **_keep track of the email domain_**, and save it. It changes frequently.
+- [AnonAddy](https://anonaddy.com/) - Mail forwarding platform. Open Source. Provides some privacy for signups, and is quite useful, can be an alternative to mail.tm.
+- [FirefoxRelay](https://relay.firefox.com/) - Mail forwarding platform similar to AnonAddy. I prefer AnonAddy, but check this out too.
+- [sms24](https://sms24.me/en/) - for throwaway registrations. Don't expect anything more than that. Use only for non-critical accounts which don't need any recovery options and if you don't mind the risk of using a publicly accessible number.
+- [ProtonMail](https://protonmail.com/) - Well rated email provider for secure email. 
+- 
