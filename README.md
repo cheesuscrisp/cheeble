@@ -11,9 +11,10 @@ Legend:
 # Wiki/Indexes:
 A lot of inspiration was drawn from here, so check them out:
 ### Piracy:
-- [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread)
+- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - very well updated, and has more than just piracy, but can be daunting for new users due to its size. (more useful for streaming sites, and miscellaneous non-piracy tools)
+- [r/Piracy](https://www.reddit.com/r/Piracy/wiki/megathread) - good balance of enough items, and decently updated - use more for software sites, etc.
+- [r/animepiracy wiki](https://theindex.moe/) - General wiki/megathread for all things weeb. Refer to my section on anime and manga for a quality curated section.
 - [RippedGuide](https://ripped.guide/)
-- [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - more than just piracy, but is too large so would caution going through it
 - [AwesomePiracy - GitHub](https://github.com/Igglybuff/awesome-piracy) - slightly outdated but has great stuff
 - // [WebOasis](https://weboasis.app/)
 
@@ -23,15 +24,17 @@ A lot of inspiration was drawn from here, so check them out:
 
 # Media:
 ## Movies/TV:
-- [HDSeries.cc](https://www3.hdseries.cc/)
-- [HiMovies](https://www5.himovies.to/)
-- [FMovies](https://fmovies.to/)
-- (DL) [TorrentGalaxy](https://torrentgalaxy.to/)
+- [r/FMHY Streaming Section](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video) - well updated index of streaming sites, but is a bit too large, so I have listed some of my favourites.
+- [HDSeries.cc](https://www3.hdseries.cc/) - mirror of HiMovies, but I like that it doesn't have multiquality playback, so I don't have to choose everytime (and its faster in general)
+- [theflix](https://theflix.to) - Great quality, limited selection. Is weird to get working, sometimes clicking on a series can show a "404 Not Found" page, but changing the season and episode in the url can get it to work.
+- [FMovies](https://fmovies.to/) - The OG. Not the best quality, but just has a lot. Often blocked by ISP. Refer the Unblocking Guide.
+- [PrimeWire](https://primewire.tf) or [HydraWire](https://hydrawire.tv) - alternate UI, and is a bit daunting for new users.
+- (DL - Torrent) [TorrentGalaxy](https://torrentgalaxy.to/) - download (torrent) any TV or Movie you want. Tip: Sort by seeders descending.
 
 ## Anime:
+- [Tenshi](https://tenshi.moe/) - Best quality in streaming, limited options
 - [9Anime](https://9anime.me/) -  Has everything in good quality (mp4upload server is the best quality, then VideoVard - speed is region dependant, try all)
 - [Zoro](https://zoro.to/) - Same quality as 9Anime, but has a different UI and player.
-- [Tenshi](https://tenshi.moe/) - Best quality in streaming, limited options
 - [AniMixPlay](https://animixplay.to/) - (Mirrors GOGO)Mixed bag in quality, can be better than 9Anime or worse depending on the airing date - Great speeds.
 - (DL) [Nyaa](https://nyaa.si/) - Has everything
 - (DL) [AniDex](https://anidex.info/) - similar to nyaa, but nyaa is more popular. Use if ISP blocks nyaa, and you can't/don't want to use GoodbyeDPI.
