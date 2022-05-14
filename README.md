@@ -70,3 +70,12 @@ For maintaining anonymity:
 - [sms24](https://sms24.me/en/) - for throwaway registrations. Don't expect anything more than that. Use only for non-critical accounts which don't need any recovery options and if you don't mind the risk of using a publicly accessible number.
 - [ProtonMail](https://protonmail.com/) - Well rated email provider for secure email. 
 - 
+
+## File Sharing
+- [Snapdrop](https://snapdrop.net/) - Open Source. Share files over LAN. Great for small file sharing across devices. Use the android [app](https://f-droid.org/en/packages/com.fmsys.snapdrop/) on F-droid for android, or just open the website in a web browser.
+- [Catbox](https://catbox.moe/) - similar to streamable. Share video files under 200MB. Sign up for storing the links.
+- [Streamja](https://streamja.com/) - similar to catbox and streamable. 
+- [Send](https://send.vis.ee/) - Open Source file sharing platform. Get a shareable link.
+- [Wormhole](https://wormhole.app/) - share files through a shareable link
+- [Instant.io](https://instant.io/) - Share files over the webtorrent protocol. Open Source.
+
