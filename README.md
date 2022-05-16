@@ -1,10 +1,25 @@
 # cheeble
 cheeble, the holy guide to the internet, ordered in the preference of cheesuscrisp themselves.
 
+# Table of Contents:
+- [Guides](#guides)
+- [Wikis and Indexes](#wikis-and-indexes)
+  - [Piracy](#piracy)
+  - [Legal](#legal)
+- [Media](#media)
+  - [Movies and TV](#movies-and-tv)
+  - [Anime](#anime)
+  - [Manga](#manga)
+  - [For Android](#for-android)
+- [Tools](#tools)
+  - [Login Details](#login-details)
+  - [File Sharing](#file-sharing)
+  - [Browser Extensions](#browser-extensions)
+
 # Guides:
 [Unblock Websites](https://rentry.co/cheesepirate-unblockwebsites)
 
-# Wiki/Indexes:
+# Wikis and Indexes:
 A lot of inspiration was drawn from here, so check them out:
 ### Piracy:
 - [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - very well updated, and has more than just piracy, but can be daunting for new users due to its size. (more useful for streaming sites, and miscellaneous non-piracy tools)
@@ -19,7 +34,7 @@ A lot of inspiration was drawn from here, so check them out:
 - [r/PrivacyGuides or privacyguides.org](https://www.privacyguides.org)
 
 # Media:
-## Movies/TV:
+## Movies and TV:
 - [r/FMHY Streaming Section](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video) - well updated index of streaming sites, but is a bit too large, so I have listed some of my favourites.
 - [HDSeries.cc](https://www3.hdseries.cc/) - mirror of HiMovies, but I like that it doesn't have multiquality playback, so I don't have to choose everytime (and its faster in general)
 - [theflix](https://theflix.to) - Great quality, limited selection. Is weird to get working, sometimes clicking on a series can show a "404 Not Found" page, but changing the season and episode in the url can get it to work.
