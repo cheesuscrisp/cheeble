@@ -18,6 +18,7 @@ cheeble, the holy guide to the internet, ordered in the preference of cheesuscri
 
 # Guides:
 [Unblock Websites](unblockwebsites.md)
+[Torrenting](https://www.reddit.com/r/piracy/wiki/megathread/tools#wiki_.25BA_torrent_clients) - DONT USE UTORRENT OR BITTORENT PLEASE. Use any other recommended torrent client. I use qBittorent.
 
 # Wikis and Indexes:
 A lot of inspiration was drawn from here, so check them out:
@@ -47,8 +48,8 @@ A lot of inspiration was drawn from here, so check them out:
 - [9Anime](https://9anime.me/) -  Has everything in good quality (mp4upload server is the best quality, then VideoVard - speed is region dependant, try all)
 - [Zoro](https://zoro.to/) - Same quality as 9Anime, but has a different UI and player.
 - [AniMixPlay](https://animixplay.to/) - (Mirrors GOGO)Mixed bag in quality, can be better than 9Anime or worse depending on the airing date - Great speeds.
-- (DL) [Nyaa](https://nyaa.si/) - Has everything
-- (DL) [AniDex](https://anidex.info/) - similar to nyaa, but nyaa is more popular. Use if ISP blocks nyaa, and you can't/don't want to use GoodbyeDPI.
+- (DL - Torrent) [Nyaa](https://nyaa.si/) - Has everything
+- (DL - Torrent) [AniDex](https://anidex.info/) - similar to nyaa, but nyaa is more popular. Use if ISP blocks nyaa, and you can't/don't want to use GoodbyeDPI.
 
 ## Manga:
 - [Mangasee](https://mangasee123.com/) - Best quality, is a bit slow, and doesn't have everything. (Is slow in tachiyomi, I recommend using webview in tachi to read)
