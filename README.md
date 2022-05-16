@@ -1,10 +1,6 @@
 # cheeble
 cheeble, the holy guide to the internet, ordered in the preference of cheesuscrisp themselves.
 
-Legend:
-
-// - Haven't used it
-
 # Guides:
 [Unblock Websites](https://rentry.co/cheesepirate-unblockwebsites)
 
@@ -16,7 +12,7 @@ A lot of inspiration was drawn from here, so check them out:
 - [r/animepiracy wiki](https://theindex.moe/) - General wiki/megathread for all things weeb. Refer to my section on anime and manga for a quality curated section.
 - [RippedGuide](https://ripped.guide/)
 - [AwesomePiracy - GitHub](https://github.com/Igglybuff/awesome-piracy) - slightly outdated but has great stuff
-- // [WebOasis](https://weboasis.app/)
+- [WebOasis](https://weboasis.app/) - I haven't used it very much, but seems useful. _Check at your own risk_
 
 ### Legal:
 - [PrivacyTools.io](https://www.privacytools.io/) 
@@ -41,7 +37,7 @@ A lot of inspiration was drawn from here, so check them out:
 
 ## Manga:
 - [Mangasee](https://mangasee123.com/) - Best quality, is a bit slow, and doesn't have everything. (Is slow in tachiyomi, I recommend using webview in tachi to read)
-- // [MangaDex](https://mangadex.org/) - It's the OG. I don't personally like it, but give it a try.
+- [MangaDex](https://mangadex.org/) - It's the OG. I don't personally like it, but give it a try.
 - [Manganato](https://manganato.com/) - Aggregator - Has everything, but mixed quality - Great speeds on tachiyomi
 - [MangaBuddy](https://mangabuddy.com/) - Similar to Manganato, but has more stuff. Not great quality. Mixed speeds on tachiyomi.
 - (18+) [Toonily](https://toonily.com/) - 18+ webtoon site, great quality and speeds, is up to date.
@@ -87,6 +83,6 @@ For maintaining anonymity:
 - [Bitwarden](https://bitwarden.com/) - best password manager.
 - [xBrowserSync](https://www.xbrowsersync.org/) - sync bookmarks between browsers. Disable inbuilt sync for bookmarks in the browser before using.
 - [MAL-sync](https://malsync.moe/) - ultimate extension for weebs. (Recommended settings - skip intros > 80 seconds, hotkey = shift + . and reverse.)
-- [Tweaks for YouTube](https://inzk.dev/tweaks-for-youtube/) - Great tweaks for youtube. I use it to set preferred volume and resolution, expand player to full screen, and to hide player UI with a shortcut (shift + H), with auto hide at 0.5 seconds. [Recommended Config File](https://github.com/cheesuscrisp/cheeble/releases/download/res/tweaks-for-youtube-20220516-145647.json)
-- [SponsorBlock for YouTube](https://sponsor.ajay.app/) - skip segments on YouTube videos. [Recommended Config File](https://github.com/cheesuscrisp/cheeble/releases/download/res/SponsorBlockConfig.json)
+- [Tweaks for YouTube](https://inzk.dev/tweaks-for-youtube/) - Great tweaks for youtube. I use it to set preferred volume and resolution, expand player to full screen, and to hide player UI with a shortcut (shift + H), with auto hide at 0.5 seconds. [Recommended Config](https://github.com/cheesuscrisp/cheeble/releases/download/res/tweaks-for-youtube-20220516-145647.json)
+- [SponsorBlock for YouTube](https://sponsor.ajay.app/) - skip segments on YouTube videos. [Recommended Config](https://github.com/cheesuscrisp/cheeble/releases/download/res/SponsorBlockConfig.json)
 - [Return YouTube Dislikes](https://www.returnyoutubedislike.com/) - returns the dislike counter on YouTube. It isn't perfect, but comes quite close.
