@@ -77,7 +77,8 @@ A lot of inspiration was drawn from here, so check them out:
   - [CloudStream](https://github.com/LagradOst/CloudStream-3) - Open source streaming app for streaming from various sources online. 
   - [cablekill.us](https://www.cablekill.us/) - list of streaming apks. I don't personally use this very often since I have started using cloudstream instead, but it's worth a check.
 # Tools:
-## Login Details:
+## General:
+### Login Details:
 For maintaining anonymity:
 - [Bitwarden](https://bitwarden.com/) - Great password manager. Can also self host if you want.
 - [mail.tm](https://mail.tm/en/) - Not quite throwaway or temporary email. Use if you need an email for an account for which you still want recovery options, but don't want to link to yourself. Don't trust this email service too much though. Also **_keep track of the email domain_**, and save it. It changes frequently.
@@ -86,7 +87,7 @@ For maintaining anonymity:
 - [sms24](https://sms24.me/en/) - for throwaway registrations. Don't expect anything more than that. Use only for non-critical accounts which don't need any recovery options and if you don't mind the risk of using a publicly accessible number.
 - [ProtonMail](https://protonmail.com/) - Well rated email provider for secure email. 
 
-## File Sharing:
+### File Sharing:
 - [Snapdrop](https://snapdrop.net/) - Open Source. Share files over LAN. Great for small file sharing across devices. Use the android [app](https://f-droid.org/en/packages/com.fmsys.snapdrop/) on F-droid for android, or just open the website in a web browser.
 - [Catbox](https://catbox.moe/) - similar to streamable. Share video files under 200MB. Sign up for storing the links.
 - [Streamja](https://streamja.com/) - similar to catbox and streamable. 
@@ -94,7 +95,7 @@ For maintaining anonymity:
 - [Wormhole](https://wormhole.app/) - share files through a shareable link
 - [Instant.io](https://instant.io/) - Share files over the webtorrent protocol. Open Source.
 
-## Browser Extensions:
+### Browser Extensions:
 - [uBlock Origin](https://ublockorigin.com/) - best adblocker for browsers. 
 - [Bitwarden](https://bitwarden.com/) - best password manager.
 - [xBrowserSync](https://www.xbrowsersync.org/) - sync bookmarks between browsers. Disable inbuilt sync for bookmarks in the browser before using.
@@ -102,3 +103,11 @@ For maintaining anonymity:
 - [Tweaks for YouTube](https://inzk.dev/tweaks-for-youtube/) - Great tweaks for youtube. I use it to set preferred volume and resolution, expand player to full screen, and to hide player UI with a shortcut (shift + H), with auto hide at 0.5 seconds. [Recommended Config](https://github.com/cheesuscrisp/cheeble/releases/download/res/tweaks-for-youtube-20220516-145647.json)
 - [SponsorBlock for YouTube](https://sponsor.ajay.app/) - skip segments on YouTube videos. [Recommended Config](https://github.com/cheesuscrisp/cheeble/releases/download/res/SponsorBlockConfig.json)
 - [Return YouTube Dislikes](https://www.returnyoutubedislike.com/) - returns the dislike counter on YouTube. It isn't perfect, but comes quite close.
+
+## Android:
+- [F-Droid](https://f-droid.org/) - Free and Open Source Repository for Android Apps. Great resource for finding safe, and free apps for almost any purpose.
+- [Droid-ify](https://f-droid.org/en/packages/com.looker.droidify/) - alternate frontend for F-Droid app for android.
+- [Mobilism](https://forum.mobilism.org/) - has modded apks for android apps
+- [r/Piracy list](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos#wiki_.25BA_android_cracked.2Fmodded_app_markets_.26amp.3B_repos) - list of sites to use for mobile apps.
+- [YouTube Vanced Repo (archive)](https://mirror.codebucket.de/vanced/api/v1/apks/v17.03.38/) - Choose version (if you don't know what either means, click nonroot). Then you need 3 files. 1 from architecture, 1 from language and 1 from theme. I personally use black, and english. For architecture, if you don't know then download [cpu-z](https://play.google.com/store/apps/details?id=com.cpuid.cpu_z) and check architecture. After downloading all 3 files, download [Split APK installer](https://f-droid.org/en/packages/com.aefyr.sai.fdroid/) and choose the 3 files you downloaded, after choosing Install > Internal File Picker. Download [microG](https://apt.izzysoft.de/fdroid/repo/com.mgoogle.android.gms_22022001.apk) to sign in.
+
