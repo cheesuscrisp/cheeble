@@ -17,7 +17,7 @@ cheeble, the holy guide to the internet, ordered in the preference of cheesuscri
   - [Browser Extensions](#browser-extensions)
 
 # Guides:
-[Unblock Websites](https://rentry.co/cheesepirate-unblockwebsites)
+[Unblock Websites](unblockwebsites.md)
 
 # Wikis and Indexes:
 A lot of inspiration was drawn from here, so check them out:
