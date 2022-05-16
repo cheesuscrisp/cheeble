@@ -17,8 +17,8 @@ cheeble, the holy guide to the internet, ordered in the preference of cheesuscri
   - [Browser Extensions](#browser-extensions)
 
 # Guides:
-[Unblock Websites](unblockwebsites.md)
-[Torrenting](https://www.reddit.com/r/piracy/wiki/megathread/tools#wiki_.25BA_torrent_clients) - DONT USE UTORRENT OR BITTORENT PLEASE. Use any other recommended torrent client. I use qBittorent.
+- [Unblock Websites](unblockwebsites.md)
+- [Torrenting](https://www.reddit.com/r/piracy/wiki/megathread/tools#wiki_.25BA_torrent_clients) - DONT USE UTORRENT OR BITTORENT PLEASE. Use any other recommended torrent client. I use qBittorent.
 
 # Wikis and Indexes:
 A lot of inspiration was drawn from here, so check them out:
