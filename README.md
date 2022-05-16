@@ -12,9 +12,11 @@ cheeble, the holy guide to the internet, ordered in the preference of cheesuscri
   - [Manga](#manga)
   - [For Android](#for-android)
 - [Tools](#tools)
-  - [Login Details](#login-details)
-  - [File Sharing](#file-sharing)
-  - [Browser Extensions](#browser-extensions)
+  - [General](#general)
+    - [Login Details](#login-details)
+    - [File Sharing](#file-sharing)
+    - [Browser Extensions](#browser-extensions)
+  - [Android](#android)
 
 # Guides:
 - [Unblock Websites](unblockwebsites.md)
