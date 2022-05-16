@@ -87,6 +87,6 @@ For maintaining anonymity:
 - [Bitwarden](https://bitwarden.com/) - best password manager.
 - [xBrowserSync](https://www.xbrowsersync.org/) - sync bookmarks between browsers. Disable inbuilt sync for bookmarks in the browser before using.
 - [MAL-sync](https://malsync.moe/) - ultimate extension for weebs. (Recommended settings - skip intros > 80 seconds, hotkey = shift + . and reverse.)
-- [Tweaks for YouTube](https://inzk.dev/tweaks-for-youtube/) - Great tweaks for youtube. I use it to set preferred volume and resolution, expand player to full screen, and to hide player UI with a shortcut (shift + H), with auto hide at 0.5 seconds. [Config File](https://raw.githubusercontent.com/cheesuscrisp/cheeble/main/tweaks-for-youtube-20220516-145647.json?token=GHSAT0AAAAAABURB56HC6F2OSK7GRMCGL4GYUCDJ7A) (right click, save as, append a .json at the end, choose all files in dropdown below if on windows, and import settings in the extension)
-- [SponsorBlock for YouTube](https://sponsor.ajay.app/) - skip segments on YouTube videos.
+- [Tweaks for YouTube](https://inzk.dev/tweaks-for-youtube/) - Great tweaks for youtube. I use it to set preferred volume and resolution, expand player to full screen, and to hide player UI with a shortcut (shift + H), with auto hide at 0.5 seconds. [Recommended Config File](https://github.com/cheesuscrisp/cheeble/releases/download/res/tweaks-for-youtube-20220516-145647.json)
+- [SponsorBlock for YouTube](https://sponsor.ajay.app/) - skip segments on YouTube videos. [Recommended Config File](https://github.com/cheesuscrisp/cheeble/releases/download/res/SponsorBlockConfig.json)
 - [Return YouTube Dislikes](https://www.returnyoutubedislike.com/) - returns the dislike counter on YouTube. It isn't perfect, but comes quite close.
