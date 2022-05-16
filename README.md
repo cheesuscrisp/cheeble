@@ -46,32 +46,35 @@ A lot of inspiration was drawn from here, so check them out:
 - [MangaBuddy](https://mangabuddy.com/) - Similar to Manganato, but has more stuff. Not great quality. Mixed speeds on tachiyomi.
 - (18+) [Toonily](https://toonily.com/) - 18+ webtoon site, great quality and speeds, is up to date.
 
-### For Android:
-- [Tachiyomi](https://tachiyomi.org/) - the best manga reader for android.
-- [Forks of Tachiyomi](https://tachiyomi.org/forks/) - I personally HIGHLY recommend using tachiyomiSY. It has many more features (even past hentai). Disable Integrated Hentai features in advanced if you don't want it. (I don't use it, I prefer Toonily)
-  - **Recommended Settings:**
-    - Library > Items per row > 3 in portrait
-    - Reader > Download Threads (experiment with this) > 4
-    - Reader > Reader cache size > 1GB
-    - Reader > Aggresively load pages > on
-    - Reader > Page preload amount > 12
-    - Highly recommend using categories in libraries to organise your manga.
-    - Go through all the customisation options, if you want to. 
-    - Use all the extensions from the websites mentioned above.
-- [Kotatsu](https://github.com/nv95/Kotatsu) - manga reader. not as functional as tachiyomi.
-- [Saikou](https://github.com/saikou-app/saikou) - Personally use it only for anime occasionally. Manga features are clunky, but has great potential.
-
+## For Android:
+- Manga and Anime:
+  - [Tachiyomi](https://tachiyomi.org/) - the best manga reader for android.
+  - [Forks of Tachiyomi](https://tachiyomi.org/forks/) - I personally HIGHLY recommend using tachiyomiSY. It has many more features (even past hentai). Disable Integrated Hentai features in advanced if you don't want it. (I don't use it, I prefer Toonily)
+    - **Recommended Settings:**
+      - Library > Items per row > 3 in portrait
+      - Reader > Download Threads (experiment with this) > 4
+      - Reader > Reader cache size > 1GB
+      - Reader > Aggresively load pages > on
+      - Reader > Page preload amount > 12
+      - Highly recommend using categories in libraries to organise your manga.
+      - Go through all the customisation options, if you want to. 
+      - Use all the extensions from the websites mentioned above.
+  - [Kotatsu](https://github.com/nv95/Kotatsu) - manga reader. not as functional as tachiyomi.
+  - [Saikou](https://github.com/saikou-app/saikou) - Personally use it only for anime occasionally. Manga features are clunky, but has great potential.
+- Movies and TV:
+  - [CloudStream](https://github.com/LagradOst/CloudStream-3) - Open source streaming app for streaming from various sources online. 
+  - [cablekill.us](https://www.cablekill.us/) - list of streaming apks. I don't personally use this very often since I have started using cloudstream instead, but it's worth a check.
 # Tools:
 ## Login Details:
 For maintaining anonymity:
-- [mail.tm](https://mail.tm/en/) - Not quite temporary email, but throwaway. Use if you need an email for an account for which you still want recovery options, but don't want to link to yourself. Don't trust this email service too much though. Also **_keep track of the email domain_**, and save it. It changes frequently.
+- [Bitwarden](https://bitwarden.com/) - Great password manager. Can also self host if you want.
+- [mail.tm](https://mail.tm/en/) - Not quite throwaway or temporary email. Use if you need an email for an account for which you still want recovery options, but don't want to link to yourself. Don't trust this email service too much though. Also **_keep track of the email domain_**, and save it. It changes frequently.
 - [AnonAddy](https://anonaddy.com/) - Mail forwarding platform. Open Source. Provides some privacy for signups, and is quite useful, can be an alternative to mail.tm.
 - [FirefoxRelay](https://relay.firefox.com/) - Mail forwarding platform similar to AnonAddy. I prefer AnonAddy, but check this out too.
 - [sms24](https://sms24.me/en/) - for throwaway registrations. Don't expect anything more than that. Use only for non-critical accounts which don't need any recovery options and if you don't mind the risk of using a publicly accessible number.
 - [ProtonMail](https://protonmail.com/) - Well rated email provider for secure email. 
-- 
 
-## File Sharing
+## File Sharing:
 - [Snapdrop](https://snapdrop.net/) - Open Source. Share files over LAN. Great for small file sharing across devices. Use the android [app](https://f-droid.org/en/packages/com.fmsys.snapdrop/) on F-droid for android, or just open the website in a web browser.
 - [Catbox](https://catbox.moe/) - similar to streamable. Share video files under 200MB. Sign up for storing the links.
 - [Streamja](https://streamja.com/) - similar to catbox and streamable. 
@@ -79,3 +82,11 @@ For maintaining anonymity:
 - [Wormhole](https://wormhole.app/) - share files through a shareable link
 - [Instant.io](https://instant.io/) - Share files over the webtorrent protocol. Open Source.
 
+## Browser Extensions:
+- [uBlock Origin](https://ublockorigin.com/) - best adblocker for browsers. 
+- [Bitwarden](https://bitwarden.com/) - best password manager.
+- [xBrowserSync](https://www.xbrowsersync.org/) - sync bookmarks between browsers. Disable inbuilt sync for bookmarks in the browser before using.
+- [MAL-sync](https://malsync.moe/) - ultimate extension for weebs. (Recommended settings - skip intros > 80 seconds, hotkey = shift + . and reverse.)
+- [Tweaks for YouTube](https://inzk.dev/tweaks-for-youtube/) - Great tweaks for youtube. I use it to set preferred volume and resolution, expand player to full screen, and to hide player UI with a shortcut (shift + H), with auto hide at 0.5 seconds. [Config File](https://raw.githubusercontent.com/cheesuscrisp/cheeble/main/tweaks-for-youtube-20220516-145647.json?token=GHSAT0AAAAAABURB56HC6F2OSK7GRMCGL4GYUCDJ7A) (right click, save as, append a .json at the end, choose all files in dropdown below if on windows, and import settings in the extension)
+- [SponsorBlock for YouTube](https://sponsor.ajay.app/) - skip segments on YouTube videos.
+- [Return YouTube Dislikes](https://www.returnyoutubedislike.com/) - returns the dislike counter on YouTube. It isn't perfect, but comes quite close.
