@@ -63,7 +63,7 @@ A lot of inspiration was drawn from here, so check them out:
 ## For Android:
 - Manga and Anime:
   - [Tachiyomi](https://tachiyomi.org/) - the best manga reader for android.
-  - [Forks of Tachiyomi](https://tachiyomi.org/forks/) - I personally HIGHLY recommend using tachiyomiSY. It has many more features (even past hentai). Disable Integrated Hentai features in advanced if you don't want it. (I don't use it, I prefer Toonily)
+  - [Forks of Tachiyomi](https://tachiyomi.org/forks/) - I personally HIGHLY recommend using tachiyomiSY. It has many more features (even past hentai). Disable Integrated Hentai features in advanced if you don't want it. (I don't use it)
     - **Recommended Settings:**
       - Library > Items per row > 3 in portrait
       - Reader > Download Threads (experiment with this) > 4
