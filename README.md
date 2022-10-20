@@ -39,6 +39,7 @@ A lot of inspiration was drawn from here, so check them out:
 # Media:
 ## Movies and TV:
 - [r/FMHY Streaming Section](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video) - well updated index of streaming sites, but is a bit too large, so I have listed some of my favourites.
+- [Olgply](https://olgply.com/) - excellent UI, large selection of content, and okay quality, great speeds. Doesn't have subtitles.
 - [HDSeries.cc](https://www3.hdseries.cc/) - mirror of HiMovies, but I like that it doesn't have multiquality playback, so I don't have to choose everytime (and its faster in general)
 - [theflix](https://theflix.to) - Great quality, limited selection. Is weird to get working, sometimes clicking on a series can show a "404 Not Found" page, but changing the season and episode in the url can get it to work.
 - [FMovies](https://fmovies.to/) - The OG. Not the best quality, but just has a lot. Often blocked by ISP. Refer the Unblocking Guide.
@@ -107,9 +108,20 @@ For maintaining anonymity:
 - [Return YouTube Dislikes](https://www.returnyoutubedislike.com/) - returns the dislike counter on YouTube. It isn't perfect, but comes quite close.
 
 ## Android:
+### Legal:
 - [F-Droid](https://f-droid.org/) - Free and Open Source Repository for Android Apps. Great resource for finding safe, and free apps for almost any purpose.
 - [Droid-ify](https://f-droid.org/en/packages/com.looker.droidify/) - alternate frontend for F-Droid app for android. Select the 3 buttons (top right) > Repositories > Enable F-Droid, IzzyOnDroid, microG.
+- [FFupdater](https://github.com/Tobi823/ffupdater) - get privacy friendly browsers for android.
+- [link-eye](https://f-droid.org/en/packages/kuesji.link_eye.fdroid/) - great manager for people who have multiple browsers/compartmentalize their browsing.
+- [infinity for reddit](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/) - best reddit alternate client so far. Highly recommend - disable "Save Scrolled Position in HOME" in Miscellaneous, make post feed preview max resolution in Miscellaneous 9999999 (max value), enable all options in post history.
+- [LibreTube](https://f-droid.org/en/packages/com.github.libretube/) - alternate youtube frontend, no ads, no ties to google. No YouTube Account, you can save your subscriptions by importing from google, and exporting to the app while being logged into Piped.
+
+### Piracy:
 - [Mobilism](https://forum.mobilism.org/) - has modded apks for android apps
 - [r/Piracy list](https://www.reddit.com/r/Piracy/wiki/megathread/mobile_apps_and_repos#wiki_.25BA_android_cracked.2Fmodded_app_markets_.26amp.3B_repos) - list of sites to use for mobile apps.
 - [YouTube Vanced Repo (archive)](https://mirror.codebucket.de/vanced/api/v1/apks/v17.03.38/) - Choose version (if you don't know what either means, click nonroot). Then you need 3 files. 1 from architecture, 1 from language and 1 from theme. I personally use black, and english. For architecture, if you don't know then download [cpu-z](https://play.google.com/store/apps/details?id=com.cpuid.cpu_z) and check architecture. After downloading all 3 files, download [Split APK installer](https://f-droid.org/en/packages/com.aefyr.sai.fdroid/) and choose the 3 files you downloaded, after choosing Install > Internal File Picker. Download [microG](https://apt.izzysoft.de/fdroid/repo/com.mgoogle.android.gms_22022001.apk) to sign in. Alternately, you can use different apps such as [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) or [LibreTube](https://github.com/libre-tube/LibreTube/releases), OR you can wait for [ReVanced](https://github.com/revanced).
+- [Youtube ReVanced](https://nightly.link/XDream8/revanced-creator/workflows/Build/main) - YouTube ReVanced apks built by [XDream8](https://github.com/XDream8) using [revanced-creator](https://github.com/XDream8/revanced-creator). Also has modded YT-music, Spotify and Reddit.
+- [xManager](https://github.com/xManager-v2/xManager-Spotify) - free spotify premium. need to delete cache and force stop, then relaunch after first start after install. (Rewarded Ads are optional and can be disabled in the settings).
+
+
 
